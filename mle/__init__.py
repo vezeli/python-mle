@@ -3,10 +3,10 @@ from mle.model import Model
 from mle.variable import var
 
 __all__ = [
-    Join,
-    Mix2,
-    Model,
-    Normal,
-    Uniform,
-    var,
+    "Join",
+    "Mix2",
+    "Model",
+    "Normal",
+    "Uniform",
+    "var",
 ]
